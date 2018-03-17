@@ -6,7 +6,12 @@ let restModel = [
   {
     id: 2,
     name: "Sweet Sensation Confectionaries"
+  },
+  {
+    id: 3,
+    name: "Sensation Confectionaries"
   }
+
 ];
 
 module.exports = restModel;
